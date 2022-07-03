@@ -1,1 +1,1 @@
-
+xdg-open index.php
